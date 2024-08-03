@@ -14,6 +14,5 @@ Calculated Fields: This project extensively uses Tableau’s calculated fields t
 Interactive Filters and Parameters: The charts are enhanced with interactive filters and parameters, allowing users to customize their view and drill down into specific aspects of the data. This interactivity provides a dynamic way to explore and understand the sales data in various contexts.
 
 DASHBOARD:
-Please download the file for reference. 
-
+![image](https://github.com/user-attachments/assets/24d79878-d260-478e-957c-b5b6a0b3e2f0)
 
